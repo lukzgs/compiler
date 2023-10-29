@@ -1,0 +1,18 @@
+'9'
+"string1" "string2"
+a
+9
+asda
+aa
+// asdas
+
+/// nada aqui
+1a
+
+
+\\\ 
+\
+1a
+
+/
+}{}-~
