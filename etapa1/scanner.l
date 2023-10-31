@@ -85,8 +85,7 @@
   hashInsert(yytext, TK_IDENTIFIER); 
   return TK_IDENTIFIER;
 }
-
-\"[^\"\n]*\" { 
+\"(\\.|[^"\n])*\" { 
   hashInsert(yytext, LIT_STRING); 
   return LIT_STRING; 
 }
